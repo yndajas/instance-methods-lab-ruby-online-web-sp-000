@@ -9,7 +9,7 @@ end
 
 class Person
   def talk
-    puts "Hellow World!"
+    puts "Hello World!"
   end
   def walk
     puts "The Person is walking"
